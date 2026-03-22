@@ -29,8 +29,8 @@
             "title": "Black Box",
             "author": "Amos Oz",
             "genre": "FRO (Fictie Roman)",
-            "status": "Beschikbaar",
-            "due_date": null
+            "status": "Uitgeleend",
+            "due_date": "2026-04-12"
         },
         {
             "code": "AO2",

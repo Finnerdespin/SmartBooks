@@ -223,7 +223,9 @@
         {
             "code": "FR1",
             "name": "Finn Rijnhout",
-            "borrowed": null
+            "borrowed": [
+                "AO1"
+            ]
         },
         {
             "code": "FR2",
