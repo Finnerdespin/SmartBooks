@@ -1,0 +1,1557 @@
+{
+    "books": [
+        {
+            "code": "AC1",
+            "title": "Niets is wat het lijkt",
+            "author": "Aidan Chambers",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AF1",
+            "title": "De laatste zes",
+            "author": "Alexandra Monir",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AF2",
+            "title": "Dag van bekentenis",
+            "author": "Allan Folsom",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AO1",
+            "title": "Black Box",
+            "author": "Amos Oz",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AO2",
+            "title": "Noem het nog geen nacht",
+            "author": "Amos Oz",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AV1",
+            "title": "Dans in de branding",
+            "author": "An van 't Oosten",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AS1",
+            "title": "Belladonna",
+            "author": "Annejoke Smids",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AP1",
+            "title": "De arkvaarders",
+            "author": "Anne Provoost",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AR1",
+            "title": "De Harpijdoder",
+            "author": "Anne Rutyne",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AR2",
+            "title": "Hysterische jachtgodinnen",
+            "author": "Anne Rutyne",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AK1",
+            "title": "Alles is weg",
+            "author": "Anke Kranendonk",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AT1",
+            "title": "Een eiland in zee",
+            "author": "Annika Thor",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AT2",
+            "title": "Vlinders in je buik, brok in je keel",
+            "author": "Annika Thor",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AH1",
+            "title": "Snakehead",
+            "author": "Anthony Horowitz",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AH2",
+            "title": "Stormbreaker",
+            "author": "Anthony Horowitz",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AH3",
+            "title": "De honden van Aktaioon",
+            "author": "Anthony Horowitz",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AH4",
+            "title": "Horowitz Horror",
+            "author": "Anthony Horowitz",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AQ1",
+            "title": "De bavianenkoning",
+            "author": "Anton Quintana",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "AP2",
+            "title": "De onopgesmukte waarheid",
+            "author": "Astrid Paprotta",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BM1",
+            "title": "De melkweg",
+            "author": "Bart Moeyaert",
+            "genre": "NFO (Non Fictie Poëzie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BV1",
+            "title": "De schaduw van de revolutie: Napoleon",
+            "author": "Bart van Loo",
+            "genre": "NFG (Non Fictie Geschiedenis)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BP1",
+            "title": "Ketchup en alligators",
+            "author": "Beatrijs Peeters",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BG1",
+            "title": "Mijn ontsnapping",
+            "author": "Benoit Groult",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BC1",
+            "title": "Hersenschimmen",
+            "author": "Bernlef",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BT1",
+            "title": "Kinderen van de weg",
+            "author": "Betty Mellaerts",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "BS1",
+            "title": "Stormbreaker",
+            "author": "Boris Starling",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "CK1",
+            "title": "Zoenoffer",
+            "author": "Cathy Kelly",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "CP1",
+            "title": "De vriendschap",
+            "author": "Connie Palmen",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "CB1",
+            "title": "Hou van mij",
+            "author": "Corien Botman",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "CB2",
+            "title": "Leif mijn Lief",
+            "author": "Corien Botman",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "CV1",
+            "title": "Elske",
+            "author": "Cynthia Voigt",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DB1",
+            "title": "Het Bernini Mysterie",
+            "author": "Dan Brown",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DV1",
+            "title": "Hoe Napoleon zijn verjaardag vierde",
+            "author": "Danny de vos",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DV2",
+            "title": "Koppijn",
+            "author": "Danny Vierstegen",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DB2",
+            "title": "Henna op je huid",
+            "author": "Dirk Bracke",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DB3",
+            "title": "Het engelenhuis",
+            "author": "Dirk Bracke",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DV3",
+            "title": "Showbizzkiss",
+            "author": "Do Van Ranst",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DO1",
+            "title": "De draken-bruid",
+            "author": "Doris Orgel",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DH1",
+            "title": "Geheimen van de wolven",
+            "author": "Dorothy Hearst",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "DC1",
+            "title": "Shampoo planet",
+            "author": "Douglas Coupland",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "ES1",
+            "title": "Jodendom Christendom verlichting",
+            "author": "Dr. E. Jansen Schoonhoven",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EF1",
+            "title": "De verrijzenis van Tony Tornado",
+            "author": "ED Franck",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EV1",
+            "title": "De gelukvinder",
+            "author": "Edward Van De Vendel",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EV2",
+            "title": "Het verhaal met een tong",
+            "author": "Edward Van De Vendel",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EG1",
+            "title": "Eten bidden beminnen",
+            "author": "Elizabeth Gilbert",
+            "genre": "NFP (Non Fictie Psychologie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EH1",
+            "title": "Op blote voeten",
+            "author": "Elin Hilderbrand",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EB1",
+            "title": "Eén mens is genoeg",
+            "author": "Els Beerten",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EB2",
+            "title": "Voorbij de blauwe lucht",
+            "author": "Els Beerten",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EM1",
+            "title": "Mijn tweede huid",
+            "author": "Erwin Mortier",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "EV3",
+            "title": "Suikerspin",
+            "author": "Erik Vlamink",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "FA1",
+            "title": "De passie van de puber",
+            "author": "Frank Adam",
+            "genre": "NFP (Non Fictie Psychologie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GM1",
+            "title": "Afval en dorre bladeren",
+            "author": "Gabriel Garcia Marquez",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GB1",
+            "title": "Hedendaagse architectuur in België",
+            "author": "Geert Bekaert",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GH1",
+            "title": "Coriolis de stormplaneet",
+            "author": "Gerben Hellinga",
+            "genre": "FSF (Fictie Science Fiction)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GE1",
+            "title": "Engel in rood",
+            "author": "Gerda Van Erkel",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GP1",
+            "title": "Anna was hier",
+            "author": "Gerda de Preter",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GW1",
+            "title": "HouteKiet",
+            "author": "Gerard Walschap",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GF1",
+            "title": "Madame Bovary",
+            "author": "Gustave Flaubert",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GU1",
+            "title": "Nee Pedro nee",
+            "author": "Gode-Liva Uleners",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "GG1",
+            "title": "Een andere Elliot",
+            "author": "Graham Gardner",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HR1",
+            "title": "Roest",
+            "author": "Harald Rosenlow Eeg",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HM1",
+            "title": "De Aanslag",
+            "author": "Harry Mulisch",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HM2",
+            "title": "Het stenen bruidsbed",
+            "author": "Harry Mulisch",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HM3",
+            "title": "Alleen op de wereld",
+            "author": "Hector Malot",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HH1",
+            "title": "Het woud der verwachting",
+            "author": "Hella S. Haasse",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HC1",
+            "title": "Een Kei in een rivier",
+            "author": "Herman Van Campenhout",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HG1",
+            "title": "Moord op een schilderij",
+            "author": "Hilde E. Gerard",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "HB1",
+            "title": "De ijzer proef",
+            "author": "Holly Black & Cassandra Clare",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IC1",
+            "title": "Een venetiaans geheim",
+            "author": "Ian Caldwell",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IV1",
+            "title": "Wie niet weg is wordt gezien",
+            "author": "Ida Vos",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IV2",
+            "title": "Witte Pijn",
+            "author": "Ina Vandewijer",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IB1",
+            "title": "Het vervloekte land",
+            "author": "Inge Bergh",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IL1",
+            "title": "SlideSs",
+            "author": "Inez Van Loon",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "IH1",
+            "title": "Yildiz, een van ons",
+            "author": "Isolde Heyne",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "ID1",
+            "title": "De detectivedoos",
+            "author": "Ivo De Koning",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JR1",
+            "title": "Harry Potter en de relieken van de dood",
+            "author": "J.K. Rowling",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JR2",
+            "title": "Harry Potter en de orde van de feniks",
+            "author": "J.K. Rowling",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JG1",
+            "title": "Blij dat ik vrij",
+            "author": "J. Gale",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JW1",
+            "title": "Altijd prijs",
+            "author": "Jacqueline Wilson",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JM1",
+            "title": "Texas",
+            "author": "James A. Michener",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JT1",
+            "title": "De kloof",
+            "author": "Jan Terlouw",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JT2",
+            "title": "Pjotr",
+            "author": "Jan Terlouw",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JT3",
+            "title": "De kunstrijder",
+            "author": "Jan Terlouw",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JC1",
+            "title": "Met gekleurde billen zou het leven gelukkiger zijn",
+            "author": "Jan van Coillie",
+            "genre": "NFO (Non Fictie Poëzie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JS1",
+            "title": "Ik ben Alice",
+            "author": "Jan Simoen",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JL1",
+            "title": "Vederland",
+            "author": "Jan de Leeuw",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JB1",
+            "title": "De penderwicks",
+            "author": "Jeanne Birdsall",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JB2",
+            "title": "Bezonken rood",
+            "author": "Jeroen Brouwers",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JG2",
+            "title": "Its a wonderful life",
+            "author": "Jesse Goossens",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JD1",
+            "title": "Garfield",
+            "author": "Jim Davis",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JD2",
+            "title": "Garfield doet onderzoek",
+            "author": "Jim Davis",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JC2",
+            "title": "De blinde vlek",
+            "author": "Jo Claes",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JV1",
+            "title": "Nachtwild",
+            "author": "Johan Vandvelde",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JG3",
+            "title": "Het grote misschien",
+            "author": "John Green",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JB3",
+            "title": "De jongen in de gestreepte pyjama",
+            "author": "John Boyne",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JD3",
+            "title": "De waarheid over de zaak harry quebert",
+            "author": "Joël Dicker",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JH1",
+            "title": "De afgrond",
+            "author": "Joost heyink",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JH2",
+            "title": "Obsessie",
+            "author": "Joost heyink",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JG4",
+            "title": "De wereld van sofie",
+            "author": "Jostein Gaarder",
+            "genre": "NFF (Non Fictie Filosofie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "JP1",
+            "title": "Blauw",
+            "author": "Joyce Poole",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KV1",
+            "title": "Kattenman",
+            "author": "Karel verleyen",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KV2",
+            "title": "De Keuze",
+            "author": "Karel Verleyen",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KS1",
+            "title": "Vervloekt geluk",
+            "author": "Karin Slaughter",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KS2",
+            "title": "Mosjes en Reizele",
+            "author": "Karlijn Stoffels",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KB1",
+            "title": "Woodwalkers gevaarlijke vriendschap",
+            "author": "Katja Brandis",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KS3",
+            "title": "Zeepbellen voor Noa",
+            "author": "Katrien Seynaeve",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KV3",
+            "title": "Pepijn en de doos der deugden",
+            "author": "Kattie Velghe",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KD1",
+            "title": "Het verhaal van de olifant en de goochelaar",
+            "author": "Kate DiCamillo",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "KJ1",
+            "title": "Eiland",
+            "author": "Kolet Janssen",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LB1",
+            "title": "Dreiging en duisternis",
+            "author": "Leigh Bardugo",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LB2",
+            "title": "The world book of love",
+            "author": "Leo Bormans",
+            "genre": "NFP (Non Fictie Psychologie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LC1",
+            "title": "De waarheid volgens Mason Buttle",
+            "author": "Leslie Connor",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LR1",
+            "title": "Miss dakloos",
+            "author": "Lydia Rood",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LV1",
+            "title": "Omgevallen boekenkast",
+            "author": "Linda Verstraten",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "LC2",
+            "title": "technologie en mensbeeld",
+            "author": "Luca consoli",
+            "genre": "NFF (Non Fictie Filosofie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MJ1",
+            "title": "Fonkel",
+            "author": "Maarten Jagermeester",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MB1",
+            "title": "De veertiende brief",
+            "author": "Marc de Bel",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MB2",
+            "title": "De ridders van de geflambeerde onderbroek",
+            "author": "Marc de Bel",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MC1",
+            "title": "Groot scheld-woordenboek",
+            "author": "Marc de Coster",
+            "genre": "NFT (Non Fictie Talen)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MH1",
+            "title": "Wolken en een beetje regen",
+            "author": "Marc Hendrickx",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MJ2",
+            "title": "Indiaan met blanke voet",
+            "author": "Maria Jacques",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MK1",
+            "title": "veldheer banner",
+            "author": "Marie kessels",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MH2",
+            "title": "Als Niemand kijkt",
+            "author": "Marjolijn HOF",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MT1",
+            "title": "Tom Sawyer",
+            "author": "Mark Twain",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MM1",
+            "title": "Verrukkelijke leugens",
+            "author": "Martha Mcphee",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "ME1",
+            "title": "Het oneindige verhaal",
+            "author": "Micheal Ende",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MG1",
+            "title": "Gone verlaten",
+            "author": "Michael Grant",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "ML1",
+            "title": "a reader in the anthropology of religon",
+            "author": "michael lambek",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MP1",
+            "title": "De cirkel rond",
+            "author": "Micheal Palin",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MK2",
+            "title": "De ondraaglijke lichtheid van het bestaan",
+            "author": "Milan Kundera",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MR1",
+            "title": "Want ik raakte de hemel aan",
+            "author": "Mike Resnick",
+            "genre": "FSF (Fictie Science Fiction)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "MK3",
+            "title": "Misschien moet je iest lager mikken",
+            "author": "Milio van de kamp",
+            "genre": "NFP (Non Fictie Psychologie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NN1",
+            "title": "De buskruit oorlog",
+            "author": "Naomi Novik",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NT1",
+            "title": "Dit zijn mijn woorden",
+            "author": "Nancy E. Turner",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NP1",
+            "title": "Sint-petersbrug en cde omgeving",
+            "author": "Natalia popova",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NV1",
+            "title": "Een perfecte valentijn",
+            "author": "Nathalie Vandecasteele",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NF1",
+            "title": "Medeplichtig",
+            "author": "Nicci French",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "NF2",
+            "title": "De verborgen glimlach",
+            "author": "Nicci French",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "OP1",
+            "title": "De vrouw met het rode haar",
+            "author": "orhan pamuk",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "OP2",
+            "title": "Het huis van de stilte",
+            "author": "orhan Pamuk",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "OS1",
+            "title": "Hallucinaties",
+            "author": "Oliver Sacks",
+            "genre": "NFW (Non Fictie Wetenschappen)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PB1",
+            "title": "Hof van mirakelen",
+            "author": "Patrick Bernauw",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PB2",
+            "title": "Verliefd",
+            "author": "Patrick De Bruyn",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PL1",
+            "title": "Het BEEST van de canigou",
+            "author": "Patrick Lagrou",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PL2",
+            "title": "Offer in de Andes",
+            "author": "Patrick Lagrou",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PL3",
+            "title": "SterreKind",
+            "author": "Patrick Lagrou",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PM1",
+            "title": "De Stormentemmer",
+            "author": "Pearl Morrison",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PJ1",
+            "title": "Terreur op school",
+            "author": "Pete Johnson",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PA1",
+            "title": "De midas moorden",
+            "author": "Pieter Aspe",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "PA2",
+            "title": "Op drift",
+            "author": "Pieter Aspe",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RP1",
+            "title": "A history of Europe in the Modern World",
+            "author": "R.R. Palmer",
+            "genre": "NFG (Non Fictie Geschiedenis)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RS1",
+            "title": "Spot uit",
+            "author": "René Swartenbroekx",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RO1",
+            "title": "Breekpunt",
+            "author": "Reina Ollivier",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RR1",
+            "title": "De troon van vuur",
+            "author": "Rick Riordan",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RR2",
+            "title": "Percy Jackson de laatste olympiër",
+            "author": "Rick Riordan",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RK1",
+            "title": "De naam van mijn vader",
+            "author": "Rindert Kromhout",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RM1",
+            "title": "Top secret Missie 1",
+            "author": "Robert Muchamore",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RD1",
+            "title": "Alle verhalen",
+            "author": "Roald Dahl",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RL1",
+            "title": "Tot zij de wijn is gedichten",
+            "author": "Roel Richelieu Van Londersele",
+            "genre": "NFO (Non Fictie Poëzie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "RW1",
+            "title": "time travelling with a hamster",
+            "author": "Ross welford",
+            "genre": "FSF (Fictie Science Fiction)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SR1",
+            "title": "De duivelsverzen",
+            "author": "Salman Rushdie",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SH1",
+            "title": "Romeo en Julia",
+            "author": "Shakespeare",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SM1",
+            "title": "De burgemeester van Veurne",
+            "author": "Simenon",
+            "genre": "FTH (Fictie Thriller)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SV1",
+            "title": "Schijndood",
+            "author": "Simone Van Der Vlugt",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WS1",
+            "title": "Quentin Durward in dienst van de Fransen",
+            "author": "Sir Walter Scott",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SH2",
+            "title": "Valstrik",
+            "author": "Sonya Harnett",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SM2",
+            "title": "Zielen",
+            "author": "Stephenie Meyer",
+            "genre": "FSF (Fictie Science Fiction)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SH3",
+            "title": "Naar merelbeke",
+            "author": "Stefan Hertmans",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SS1",
+            "title": "Shabanu",
+            "author": "Suzanne Fisher Staples",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "SV2",
+            "title": "In mijn kop staat alles op zijn hoofd",
+            "author": "Sylvia Vanden Heede",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TP1",
+            "title": "Hogfather",
+            "author": "Terry Pratchett",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TP2",
+            "title": "Mort",
+            "author": "Terry prachett",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TP3",
+            "title": "Lords and ladies",
+            "author": "Terry Pratchett",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TP4",
+            "title": "witches abroad",
+            "author": "Terry Pratchett",
+            "genre": "FFA (Fictie Fantasie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TD1",
+            "title": "Die gave Grieken",
+            "author": "Terry Deary",
+            "genre": "NFG (Non Fictie Geschiedenis)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TB1",
+            "title": "Kruistocht in spijker broek",
+            "author": "Thea Beckman",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TH1",
+            "title": "Hot spot",
+            "author": "Theo Hoogstraten",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TH2",
+            "title": "Knap stom!",
+            "author": "Tineke Hendriks",
+            "genre": "FVR (Fictie Vrienden)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TD2",
+            "title": "De brief voor de koning",
+            "author": "Tonke Dragt",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TD3",
+            "title": "De torens van februari",
+            "author": "Tonke Dragt",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TV1",
+            "title": "Een werkstuk? Een spreekbeurt? Geen probleem!",
+            "author": "Ton Vingerhoets",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TK1",
+            "title": "Beekman en Beekman",
+            "author": "Toon Kortooms",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "TT1",
+            "title": "Er ligt een appel op een schaal",
+            "author": "Toon Tellegen",
+            "genre": "NFO (Non Fictie Poëzie)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "VN1",
+            "title": "Lolita",
+            "author": "Vladimir Nabokon",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WC1",
+            "title": "Tibor de vlucht naar vrijheid",
+            "author": "Willem Capteyn",
+            "genre": "FAV (Fictie Avontuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WG1",
+            "title": "Heer der vliegen",
+            "author": "William Goldwing",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WS1",
+            "title": "Stilstaan",
+            "author": "Willy Schuyesmans",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WS2",
+            "title": "en pluisje van de zee",
+            "author": "Willy Spillebeen",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WS3",
+            "title": "De Muur",
+            "author": "Willy Spillebeen",
+            "genre": "FHR (Historische Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WD1",
+            "title": "Het koopkind",
+            "author": "Wim Daems",
+            "genre": "FRO (Fictie Roman)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "WB1",
+            "title": "Het grote foute clichés boek",
+            "author": "Wim van Bock",
+            "genre": "NFC (Non Fictie Cultuur)",
+            "status": "Beschikbaar",
+            "due_date": null
+        },
+        {
+            "code": "YH1",
+            "title": "sapiens een kleine geschiedenis van de mensheid",
+            "author": "Yuval Noah Harari",
+            "genre": "NFG (Non Fictie Geschiedenis)",
+            "status": "Beschikbaar",
+            "due_date": null
+        }
+    ],
+    "genres": [
+        "FRO (Fictie Roman)",
+        "FFA (Fictie Fantasie)",
+        "FTH (Fictie Thriller)",
+        "FHR (Historische Roman)",
+        "FAV (Fictie Avontuur)",
+        "FVR (Fictie Vrienden)",
+        "FDR (Fictie Drama)",
+        "FSF (Fictie Science Fiction)",
+        "NFO (Non Fictie Poëzie)",
+        "NFG (Non Fictie Geschiedenis)",
+        "NFC (Non Fictie Cultuur)",
+        "NFP (Non Fictie Psychologie)",
+        "NFF (Non Fictie Filosofie)",
+        "NFT (Non Fictie Talen)",
+        "NFW (Non Fictie Wetenschappen)"
+    ]
+}

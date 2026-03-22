@@ -1,0 +1,794 @@
+{
+    "users": [
+        {
+            "code": "AS1",
+            "name": "Ada Schiavi",
+            "borrowed": null
+        },
+        {
+            "code": "AB1",
+            "name": "Adam Bral",
+            "borrowed": null
+        },
+        {
+            "code": "AB2",
+            "name": "Alice Boelens",
+            "borrowed": null
+        },
+        {
+            "code": "AV1",
+            "name": "Alta-Rosi De Vries",
+            "borrowed": null
+        },
+        {
+            "code": "AA1",
+            "name": "Amina Ouro Agouda",
+            "borrowed": null
+        },
+        {
+            "code": "AH1",
+            "name": "Andreas Heij",
+            "borrowed": null
+        },
+        {
+            "code": "AS2",
+            "name": "Andreas Schroyens",
+            "borrowed": null
+        },
+        {
+            "code": "AD1",
+            "name": "Anna Delbaere",
+            "borrowed": null
+        },
+        {
+            "code": "AF1",
+            "name": "Antonina Furmanska",
+            "borrowed": null
+        },
+        {
+            "code": "AS3",
+            "name": "Ariane Sadrabadi",
+            "borrowed": null
+        },
+        {
+            "code": "AS4",
+            "name": "Awa Angelina Sarr",
+            "borrowed": null
+        },
+        {
+            "code": "AA2",
+            "name": "Azhar Azougagh",
+            "borrowed": null
+        },
+        {
+            "code": "BL1",
+            "name": "Baidy Ly",
+            "borrowed": null
+        },
+        {
+            "code": "BM1",
+            "name": "Billie Mous",
+            "borrowed": null
+        },
+        {
+            "code": "BN1",
+            "name": "Billie Nulens",
+            "borrowed": null
+        },
+        {
+            "code": "BG1",
+            "name": "Bo Ghoos",
+            "borrowed": null
+        },
+        {
+            "code": "BB1",
+            "name": "Brent De Buysscher",
+            "borrowed": null
+        },
+        {
+            "code": "BH1",
+            "name": "Briek Haest",
+            "borrowed": null
+        },
+        {
+            "code": "BJ1",
+            "name": "Bruna Joos",
+            "borrowed": null
+        },
+        {
+            "code": "CV1",
+            "name": "Camil Vivier",
+            "borrowed": null
+        },
+        {
+            "code": "CN1",
+            "name": "Camila Van Noten",
+            "borrowed": null
+        },
+        {
+            "code": "CO1",
+            "name": "Cas Ooms",
+            "borrowed": null
+        },
+        {
+            "code": "CC1",
+            "name": "Ceylin Coskun",
+            "borrowed": null
+        },
+        {
+            "code": "CB1",
+            "name": "Charlotte Bastiaens",
+            "borrowed": null
+        },
+        {
+            "code": "CV2",
+            "name": "Che Ven",
+            "borrowed": null
+        },
+        {
+            "code": "CH1",
+            "name": "Chloë Hamilton",
+            "borrowed": null
+        },
+        {
+            "code": "CT1",
+            "name": "Cis Telkers",
+            "borrowed": null
+        },
+        {
+            "code": "CC2",
+            "name": "Corneel Ceulemans",
+            "borrowed": null
+        },
+        {
+            "code": "DD1",
+            "name": "Daan Degrande",
+            "borrowed": null
+        },
+        {
+            "code": "DP1",
+            "name": "Daan Peeraer",
+            "borrowed": null
+        },
+        {
+            "code": "EB1",
+            "name": "Edgar Bollaert",
+            "borrowed": null
+        },
+        {
+            "code": "EM1",
+            "name": "Elise Mees",
+            "borrowed": null
+        },
+        {
+            "code": "EJ1",
+            "name": "Ella Jansen",
+            "borrowed": null
+        },
+        {
+            "code": "EV1",
+            "name": "Ella-Louise Vanderhaeghe",
+            "borrowed": null
+        },
+        {
+            "code": "EB2",
+            "name": "Ellena Van den Brande",
+            "borrowed": null
+        },
+        {
+            "code": "EK1",
+            "name": "Ema Kontic",
+            "borrowed": null
+        },
+        {
+            "code": "ER1",
+            "name": "Emily Roth",
+            "borrowed": null
+        },
+        {
+            "code": "EW1",
+            "name": "Esmée De Wilde",
+            "borrowed": null
+        },
+        {
+            "code": "EB3",
+            "name": "Eva Buytaert",
+            "borrowed": null
+        },
+        {
+            "code": "FP1",
+            "name": "Felix Van Peel",
+            "borrowed": null
+        },
+        {
+            "code": "FA1",
+            "name": "Fenna Aerts",
+            "borrowed": null
+        },
+        {
+            "code": "FS1",
+            "name": "Fenne Stein",
+            "borrowed": null
+        },
+        {
+            "code": "FC1",
+            "name": "Finn Cuypers",
+            "borrowed": null
+        },
+        {
+            "code": "FG1",
+            "name": "Finn Goyvaerts",
+            "borrowed": null
+        },
+        {
+            "code": "FR1",
+            "name": "Finn Rijnhout",
+            "borrowed": null
+        },
+        {
+            "code": "FR2",
+            "name": "Finn Rombaut",
+            "borrowed": null
+        },
+        {
+            "code": "FI1",
+            "name": "Flor Ides",
+            "borrowed": null
+        },
+        {
+            "code": "GV1",
+            "name": "Gustav De Vriese",
+            "borrowed": null
+        },
+        {
+            "code": "HH1",
+            "name": "Hasse Hogeweg",
+            "borrowed": null
+        },
+        {
+            "code": "IT1",
+            "name": "Isabelle Theyssen",
+            "borrowed": null
+        },
+        {
+            "code": "JH1",
+            "name": "Jakob Ahmed Abazid Hassoun",
+            "borrowed": null
+        },
+        {
+            "code": "JP1",
+            "name": "Jakob Pauwels",
+            "borrowed": null
+        },
+        {
+            "code": "JC1",
+            "name": "Jakobe Ceulemans",
+            "borrowed": null
+        },
+        {
+            "code": "JC2",
+            "name": "Janne Cambré",
+            "borrowed": null
+        },
+        {
+            "code": "JM1",
+            "name": "Janne Minnebach",
+            "borrowed": null
+        },
+        {
+            "code": "JW1",
+            "name": "Jim Willemyns",
+            "borrowed": null
+        },
+        {
+            "code": "JW2",
+            "name": "Joao De Winter",
+            "borrowed": null
+        },
+        {
+            "code": "JR1",
+            "name": "Joana Baptista Ramos",
+            "borrowed": null
+        },
+        {
+            "code": "JM2",
+            "name": "Jonas Catala Minana",
+            "borrowed": null
+        },
+        {
+            "code": "JR2",
+            "name": "Jonka Robberecht",
+            "borrowed": null
+        },
+        {
+            "code": "JH2",
+            "name": "Josefien Hardies",
+            "borrowed": null
+        },
+        {
+            "code": "JH3",
+            "name": "Joske D'hooge",
+            "borrowed": null
+        },
+        {
+            "code": "JP2",
+            "name": "Julia Peeters",
+            "borrowed": null
+        },
+        {
+            "code": "JP3",
+            "name": "Julie Peeters",
+            "borrowed": null
+        },
+        {
+            "code": "JC3",
+            "name": "Jules Cassier",
+            "borrowed": null
+        },
+        {
+            "code": "JC4",
+            "name": "Jules Coelus",
+            "borrowed": null
+        },
+        {
+            "code": "JC5",
+            "name": "June Cornwell",
+            "borrowed": null
+        },
+        {
+            "code": "KJ1",
+            "name": "Karel Janssens",
+            "borrowed": null
+        },
+        {
+            "code": "LD1",
+            "name": "Leela Dhir",
+            "borrowed": null
+        },
+        {
+            "code": "LE1",
+            "name": "Lena Eijkelenburg",
+            "borrowed": null
+        },
+        {
+            "code": "LP1",
+            "name": "Lena Pauwels",
+            "borrowed": null
+        },
+        {
+            "code": "LS1",
+            "name": "Lenne De Smet",
+            "borrowed": null
+        },
+        {
+            "code": "LV1",
+            "name": "Leon Vandenbussche",
+            "borrowed": null
+        },
+        {
+            "code": "LV2",
+            "name": "Leon Vermeiren",
+            "borrowed": null
+        },
+        {
+            "code": "LT1",
+            "name": "Leon Theunis",
+            "borrowed": null
+        },
+        {
+            "code": "LG1",
+            "name": "Leone Van Goethem",
+            "borrowed": null
+        },
+        {
+            "code": "LA1",
+            "name": "Lewis Anthoni",
+            "borrowed": null
+        },
+        {
+            "code": "LV3",
+            "name": "Lien Vos",
+            "borrowed": null
+        },
+        {
+            "code": "LB1",
+            "name": "Liv Bosschaert",
+            "borrowed": null
+        },
+        {
+            "code": "LV4",
+            "name": "Liv Van De Vliet",
+            "borrowed": null
+        },
+        {
+            "code": "LG2",
+            "name": "Loewie Gerarts",
+            "borrowed": null
+        },
+        {
+            "code": "LC1",
+            "name": "Lou Cassier",
+            "borrowed": null
+        },
+        {
+            "code": "LM1",
+            "name": "Lou Martens",
+            "borrowed": null
+        },
+        {
+            "code": "LS2",
+            "name": "Lou Maurel Stes",
+            "borrowed": null
+        },
+        {
+            "code": "LV5",
+            "name": "Louis Verbeeck",
+            "borrowed": null
+        },
+        {
+            "code": "LV6",
+            "name": "Lucy de Vilder",
+            "borrowed": null
+        },
+        {
+            "code": "MS1",
+            "name": "Margot Van Damme-Soetheer",
+            "borrowed": null
+        },
+        {
+            "code": "MG1",
+            "name": "Martha Van Goethem",
+            "borrowed": null
+        },
+        {
+            "code": "MR1",
+            "name": "Marthe De Ridder",
+            "borrowed": null
+        },
+        {
+            "code": "MS2",
+            "name": "Maryam Soussi",
+            "borrowed": null
+        },
+        {
+            "code": "MB1",
+            "name": "Matthias Hermans El Benni",
+            "borrowed": null
+        },
+        {
+            "code": "MD1",
+            "name": "Maurice Detremmerie",
+            "borrowed": null
+        },
+        {
+            "code": "MV1",
+            "name": "Mauro Verheyen",
+            "borrowed": null
+        },
+        {
+            "code": "MK1",
+            "name": "Maya Keuleers",
+            "borrowed": null
+        },
+        {
+            "code": "MM1",
+            "name": "Maysae El Maimouni Mhandouyamna",
+            "borrowed": null
+        },
+        {
+            "code": "MB2",
+            "name": "Merlijn Van Den Broeck",
+            "borrowed": null
+        },
+        {
+            "code": "MV2",
+            "name": "Mia Verheyen",
+            "borrowed": null
+        },
+        {
+            "code": "ML1",
+            "name": "Michaël Liekens",
+            "borrowed": null
+        },
+        {
+            "code": "MC1",
+            "name": "Miel Coelus",
+            "borrowed": null
+        },
+        {
+            "code": "MS3",
+            "name": "Milena Steenwegen",
+            "borrowed": null
+        },
+        {
+            "code": "MC2",
+            "name": "Millie Cornelis",
+            "borrowed": null
+        },
+        {
+            "code": "MA1",
+            "name": "Mirai Arts",
+            "borrowed": null
+        },
+        {
+            "code": "MA2",
+            "name": "Mohammed Aoudane",
+            "borrowed": null
+        },
+        {
+            "code": "MC3",
+            "name": "Mona De Coninck",
+            "borrowed": null
+        },
+        {
+            "code": "MM2",
+            "name": "Mouna Meersman",
+            "borrowed": null
+        },
+        {
+            "code": "NO1",
+            "name": "Nelly Ouedraogo",
+            "borrowed": null
+        },
+        {
+            "code": "NH1",
+            "name": "Nina Hens",
+            "borrowed": null
+        },
+        {
+            "code": "NO2",
+            "name": "Nizar Ouarini",
+            "borrowed": null
+        },
+        {
+            "code": "NW1",
+            "name": "Noah De Wilde",
+            "borrowed": null
+        },
+        {
+            "code": "NF1",
+            "name": "Noor Floes",
+            "borrowed": null
+        },
+        {
+            "code": "NP1",
+            "name": "Nora Cuesta Paesbrugghe",
+            "borrowed": null
+        },
+        {
+            "code": "NS1",
+            "name": "Nora El Shebli",
+            "borrowed": null
+        },
+        {
+            "code": "NS2",
+            "name": "Nora Szabo",
+            "borrowed": null
+        },
+        {
+            "code": "NP2",
+            "name": "Nora Van Put",
+            "borrowed": null
+        },
+        {
+            "code": "NW2",
+            "name": "Norah Weyn",
+            "borrowed": null
+        },
+        {
+            "code": "NH2",
+            "name": "Nura Harting",
+            "borrowed": null
+        },
+        {
+            "code": "OC1",
+            "name": "Olaf Claes",
+            "borrowed": null
+        },
+        {
+            "code": "OM1",
+            "name": "Olivia Mulders",
+            "borrowed": null
+        },
+        {
+            "code": "OH1",
+            "name": "Oumaima El Hachmi",
+            "borrowed": null
+        },
+        {
+            "code": "OZ1",
+            "name": "Owen Van Zijst",
+            "borrowed": null
+        },
+        {
+            "code": "PS1",
+            "name": "Peter Szabo",
+            "borrowed": null
+        },
+        {
+            "code": "PV1",
+            "name": "Pippa Verstraeten",
+            "borrowed": null
+        },
+        {
+            "code": "RQ1",
+            "name": "Rei Quets",
+            "borrowed": null
+        },
+        {
+            "code": "RM1",
+            "name": "Rik Maegh",
+            "borrowed": null
+        },
+        {
+            "code": "RV1",
+            "name": "Rik Verfaillie",
+            "borrowed": null
+        },
+        {
+            "code": "RH1",
+            "name": "Robin Heijtenis",
+            "borrowed": null
+        },
+        {
+            "code": "RB1",
+            "name": "Rocco Baeken",
+            "borrowed": null
+        },
+        {
+            "code": "RL1",
+            "name": "Roman Leenders",
+            "borrowed": null
+        },
+        {
+            "code": "RP1",
+            "name": "Romée Popa",
+            "borrowed": null
+        },
+        {
+            "code": "RL2",
+            "name": "Romy Lau",
+            "borrowed": null
+        },
+        {
+            "code": "RS1",
+            "name": "Rosa Schellemans",
+            "borrowed": null
+        },
+        {
+            "code": "RS2",
+            "name": "Rosie Struyf",
+            "borrowed": null
+        },
+        {
+            "code": "SM1",
+            "name": "Sabawon Maeed",
+            "borrowed": null
+        },
+        {
+            "code": "SM2",
+            "name": "Saif-Eddine Moussaoui",
+            "borrowed": null
+        },
+        {
+            "code": "SP1",
+            "name": "Saime Padilla",
+            "borrowed": null
+        },
+        {
+            "code": "SS1",
+            "name": "Seppe Steenbeke",
+            "borrowed": null
+        },
+        {
+            "code": "SV1",
+            "name": "Sien Vermeulen",
+            "borrowed": null
+        },
+        {
+            "code": "SM3",
+            "name": "Simon Van Mook",
+            "borrowed": null
+        },
+        {
+            "code": "SA1",
+            "name": "Sora Arts",
+            "borrowed": null
+        },
+        {
+            "code": "SR1",
+            "name": "Stella De Ridder",
+            "borrowed": null
+        },
+        {
+            "code": "SJ1",
+            "name": "Suzan De Jong",
+            "borrowed": null
+        },
+        {
+            "code": "TM1",
+            "name": "Talea Mazzoni",
+            "borrowed": null
+        },
+        {
+            "code": "TR1",
+            "name": "Talia Rossen",
+            "borrowed": null
+        },
+        {
+            "code": "TS1",
+            "name": "Telsche Simanjuntak",
+            "borrowed": null
+        },
+        {
+            "code": "TV1",
+            "name": "Titus De Vos",
+            "borrowed": null
+        },
+        {
+            "code": "TS2",
+            "name": "Titus Somers",
+            "borrowed": null
+        },
+        {
+            "code": "TN1",
+            "name": "Torben Van Nispen",
+            "borrowed": null
+        },
+        {
+            "code": "VM1",
+            "name": "Viktor Majewski",
+            "borrowed": null
+        },
+        {
+            "code": "VF1",
+            "name": "Vince Frederickx",
+            "borrowed": null
+        },
+        {
+            "code": "WL1",
+            "name": "Warre Lemmens",
+            "borrowed": null
+        },
+        {
+            "code": "WH1",
+            "name": "Will Hardies",
+            "borrowed": null
+        },
+        {
+            "code": "WS1",
+            "name": "Willa Struyf",
+            "borrowed": null
+        },
+        {
+            "code": "WC1",
+            "name": "Winter Copmans",
+            "borrowed": null
+        },
+        {
+            "code": "YA1",
+            "name": "Yosif Abualkhair",
+            "borrowed": null
+        },
+        {
+            "code": "ZT1",
+            "name": "Zaid Taamarti",
+            "borrowed": null
+        },
+        {
+            "code": "ZF1",
+            "name": "Zita Frederickx",
+            "borrowed": null
+        },
+        {
+            "code": "ZO1",
+            "name": "Zoë Van Oost",
+            "borrowed": null
+        },
+        {
+            "code": "ZV1",
+            "name": "Zoë Verschueren",
+            "borrowed": null
+        }
+    ]
+}

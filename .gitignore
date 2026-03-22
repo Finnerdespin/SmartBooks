@@ -6,10 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Personal stuff, like data
-/data
-/Bib Kaarten
-
 # Distribution / packaging
 .Python
 build/
@@ -39,6 +35,9 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Pycharm Folders
+/.idea
 
 # Unit test / coverage reports
 htmlcov/
